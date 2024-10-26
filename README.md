@@ -1,4 +1,4 @@
-<h1>Java Calculator</h1>
+<h1>Java Calculator[beta]</h1>
 
 <p>This repository contains a basic calculator implemented in Java. The application allows users to perform simple mathematical operations such as addition, subtraction, multiplication, division, and other common functions. It has been developed with a modular design, following object-oriented programming (OOP) principles, and features a user-friendly graphical interface (GUI).</p>
 
